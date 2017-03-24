@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2017 Dmitry Peshekhonov
+
 Copyright (c) 2015 Vitaly
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
